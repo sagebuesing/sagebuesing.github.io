@@ -1,5 +1,5 @@
 # Sage Buesing
-Advisor: (Aleksey Cherman)[https://cse.umn.edu/physics/aleksey-cherman]
+Advisor: [Aleksey Cherman](https://cse.umn.edu/physics/aleksey-cherman)
 Graduate student in physics at the University of Minnesota. Research focuses include Quantum Field Theory, Lattice QCD and generalized symmetries, with interest also in General Relativity.
 Education:
 
