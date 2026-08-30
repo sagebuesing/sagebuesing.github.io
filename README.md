@@ -11,4 +11,4 @@ Macalester College, Saint Paul MN (BA Physics, Mathematics, 2024)
 **Postgraduate:**
 
 University of Cambridge, Department of Applied Mathematics and Theoretical Physics, Cambridge UK (MASt, 2025)
-University of Minnesota, School of Physics and Astronomy, Minneapolis MN (current, -> PhD)
+University of Minnesota, School of Physics and Astronomy, Minneapolis MN (current, → PhD)
