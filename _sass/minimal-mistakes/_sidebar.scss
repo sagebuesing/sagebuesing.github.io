@@ -1,0 +1,22 @@
+.author__avatar {  
+  display: table-cell;  
+  vertical-align: top;  
+  width: 36px;  
+  height: 36px;  
+  
+  @include breakpoint($large) {  
+    display: block;  
+    width: auto;  
+    height: auto;  
+  }  
+  
+  img {  
+    max-width: 110px;  
+    border-radius: 50%;      // shape of the frame (50% = circle)  
+  
+    @include breakpoint($large) {  
+      padding: 5px;                        // gap between photo and border  
+      border: 1px solid $border-color;      // the actual frame line  
+    }  
+  }  
+}

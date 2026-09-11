@@ -1,14 +1,25 @@
 # main links
 main:
   - title: "Research"
-    url: https://sagebuesing.github.io/research
+    url: /research
   - title: "About"
-    url: https://sagebuesing.github.io/about
+    url: /about
   - title: "Teaching"
-    url: https://sagebuesing.github.io/teaching
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /teaching
+    # children:
+    #   - title: "1101W"
+    #     url: /teaching/1101w
+  - title: "Posts"
+    url: /posts
+# teaching:
+#   - title: "Teaching"
+#     url: /teaching
+#     children:
+#       - title: "1101W"
+#         url: /teaching/1101w
+# - title: "Sample Posts"
+#   url: /year-archive/
+# - title: "Sample Collections"
+#   url: /collection-archive/
+# - title: "Sitemap"
+#   url: /sitemap/
