@@ -1,14 +1,16 @@
 # main links
 main:
-  - title: "Research"
-    url: /research
   - title: "About"
     url: /about
+  - title: "Research"
+    url: /research
   - title: "Teaching"
     url: /teaching
     # children:
     #   - title: "1101W"
     #     url: /teaching/1101w
+  - title: "Worksheets"
+    url: /worksheets
   - title: "Posts"
     url: /posts
 # teaching:

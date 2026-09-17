@@ -1,8 +1,9 @@
 ---
-title: "Test post"
+title: "test"
 date: 2026-09-08
 excerpt: "March 9, 2024"
 layout: single
+permalink: /posts/:title
 header:
   teaser: "../assets/images/2024-03-09-website-creation/teaser_githubpages.png"
 ---
